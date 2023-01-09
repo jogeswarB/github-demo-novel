@@ -1,3 +1,6 @@
+===========
+characters
+===========
 Nick Carraway
 The novel’s narrator, Nick is a young man from Minnesota who, after being educated 
 at Yale and fighting in World War I, goes to New York City to learn the bond business. 
@@ -30,4 +33,3 @@ Daisy’s immensely wealthy husband, once a member of Nick’s social club at Ya
 from a socially solid old family, Tom is an arrogant, hypocritical bully. His social attitudes are laced with 
 racism and sexism, and he never even considers trying to live up to the moral standard he demands from those
  around him.
- 
